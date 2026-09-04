@@ -1,0 +1,14 @@
+## Caminho do Android SDK.
+## Copie este arquivo para local.properties (na raiz do projeto) se o Android Studio
+## ainda não o tiver gerado. NUNCA commite local.properties — ele é pessoal de cada máquina.
+
+# Windows (escape as barras invertidas):
+# sdk.dir=C\:\\Users\\SEU_USUARIO\\AppData\\Local\\Android\\Sdk
+
+# macOS:
+# sdk.dir=/Users/SEU_USUARIO/Library/Android/sdk
+
+# Linux:
+# sdk.dir=/home/SEU_USUARIO/Android/Sdk
+
+sdk.dir=/SUBSTITUA/PELO/CAMINHO/DO/Android/Sdk
